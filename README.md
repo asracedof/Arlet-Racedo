@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!👋</h1> 
 <p align="left">
-<h4>👩🏻‍💻 Welcome to my GitHub profile! I'm <strong>Arlet Racedo</strong>, a passionate Full Stack Developer with a background in Industrial Engineering.</h4> 
+<h3>👩🏻‍💻 Welcome to my GitHub profile! I'm <strong>Arlet Racedo</strong>, a passionate Full Stack Developer with a background in Industrial Engineering.</h3> 
 </p> 
 </br>
 <p align="left">🛠 Here are some of the technologies I work with:</p> 
