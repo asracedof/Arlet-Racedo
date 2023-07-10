@@ -27,7 +27,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,mongodb,ts,py,linux,bash,docker,django,flask,kubernetes,openshift" />
   </a>
-<a href="https://gitlab.com/asracedo" target="_blank">
+<a href="https://gitlab.com/groups/asracedo" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
 </p>
@@ -65,6 +65,9 @@
 </a>
 <a href="https://dev.to/asracedof" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a> 
+<a href="https://gitlab.com/groups/asracedo" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
