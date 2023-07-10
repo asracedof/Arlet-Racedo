@@ -39,7 +39,14 @@
 3. [Project 3: Rent-ify](link-to-project-3)
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=asracedof&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asracedof&show_icons=true&locale=en&layout=compact&theme=holi&hide_border=true&border_radius=10&card_width=600" align="center" /></div>  
+
+<br/>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=asracedof&show_icons=true&theme=holi&hide_border=true&border_radius=10&card_width=600" align="center" /></div>  
 
 <br/>  
 
