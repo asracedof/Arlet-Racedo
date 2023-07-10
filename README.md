@@ -36,7 +36,7 @@
 
 1. [Project 1: Countries](https://github.com/asracedof/PI-Countries)
 2. [Project 2: Rickandmortyapp](https://github.com/asracedof/rickandmortyapp)
-3. [Project 3: Rent-ify](link-to-project-3)
+3. [Project 3: Rent-ify](https://github.com/asracedof/pf-rentify-frontend)
 
 ## Github Stats  
 
