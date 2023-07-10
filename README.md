@@ -21,7 +21,7 @@
   </a>
 </p>
 </br>
-<p align="left">I’m currently learning:</p> 
+<p align="left"><h3>I’m currently learning:</h3></p> 
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +32,7 @@
 
 ## Projects
 
-🚀 Take a look at some of my highlighted projects:
+<p align="left"><h3>🚀 Take a look at some of my highlighted projects:</h3></p> 
 
 1. [Project 1: Countries](https://github.com/asracedof/PI-Countries)
 2. [Project 2: Rickandmortyapp](https://github.com/asracedof/rickandmortyapp)
