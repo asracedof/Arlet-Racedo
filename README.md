@@ -27,6 +27,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,mongodb,ts,py,linux,bash,docker,django,flask,kubernetes,openshift" />
   </a>
+<a href="https://gitlab.com/asracedo" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+</a>  
 </p>
 </br>
 
