@@ -38,9 +38,28 @@
 2. [Project 2: Rickandmortyapp](https://github.com/asracedof/rickandmortyapp)
 3. [Project 3: Rent-ify](link-to-project-3)
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=asracedof&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=asracedof&&style=flat-square" align="center" />
+</div>  
+
+<br/> 
+
 ## Let's Connect
 
-🌟 I'm always excited to collaborate on new projects and connect with fellow developers. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arlet-racedo-fernandez-38b076267/). I'm also in the process of building my portfolio website, so stay tuned for updates!
+<p align="left"><h3>🌟 I'm always excited to collaborate on new projects and connect with fellow developers. Feel free to reach out to me on</h3></p>  
 
-Let's build something amazing together!
+<div align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arlet-racedo-fernandez-38b076267/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<p align="left"><h3>I'm also in the process of building my portfolio website, so stay tuned for updates!</h3></p>  
+
+<p align="left"><h3>Let's build something amazing together!</h3></p>  
 
