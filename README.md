@@ -3,7 +3,7 @@
 <h3>👩🏻‍💻 Welcome to my GitHub profile! I'm <strong>Arlet Racedo</strong>, a passionate Full Stack Developer with a background in Industrial Engineering.</h3> 
 </p> 
 </br>
-<p align="left">🛠 Here are some of the technologies I work with:</p> 
+<p align="left"><h3>🛠 Here are some of the technologies I work with:</h3></p> 
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
